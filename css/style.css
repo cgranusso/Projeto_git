@@ -104,6 +104,8 @@ h2 {
   text-decoration: none; }
 
 .content .btn {
+  background-color: #66CDAA;
+  border: #66CDAA;
   height: 54px;
   padding-left: 30px;
   padding-right: 30px;
